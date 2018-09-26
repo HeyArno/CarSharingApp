@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1034767618433",
+    "firebase_url": "https://carsharingapp-373d7.firebaseio.com",
+    "project_id": "carsharingapp-373d7",
+    "storage_bucket": "carsharingapp-373d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034767618433:android:3d6d3b5b4f286899",
+        "android_client_info": {
+          "package_name": "lt.mediapark.carsharingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034767618433-t7ug40vfgldi11hq3ohsvci2l1npf2pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lt.mediapark.carsharingapp",
+            "certificate_hash": "4471e0799a8e9a2a7ac0e3edcc6b46736fa11af5"
+          }
+        },
+        {
+          "client_id": "1034767618433-ch2m5an7u1vledm07hb9q71i4ahilosn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5-9lSZiVg4HIwhYMIIzToak2fgcM5uAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034767618433-ch2m5an7u1vledm07hb9q71i4ahilosn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
